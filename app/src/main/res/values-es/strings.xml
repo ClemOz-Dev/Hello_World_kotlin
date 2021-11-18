@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Epsi-Es</string>
+    <string name="txt_home_hello_world">Ola Mundo!</string>
+    <string name="button_home">Si !</string>
+</resources>
